@@ -1,7 +1,7 @@
 #body {
 	margin:0px;
 	font-family:sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 }
 
 #nav-container {
@@ -12,7 +12,21 @@
 	padding:0 20%;
 }
 
+#logo {
+	display:inline-block;
+	width:334px;
+}
+
+#menu {
+	display: inline-block;
+	position:absolute;
+	}
+
+#banner {
+	border-bottom:3px ridge orange;
+}
 
 #banner img {
 	width:100%;
+	padding-top:86px;
 }
