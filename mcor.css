@@ -11,6 +11,10 @@
 	border-bottom:1px solid gray;
 }
 
+#banner {
+	margin-top:20%;
+}
+
 #banner img {
 	width:100%;
 }
