@@ -9,11 +9,9 @@
 	position:fixed;
 	background:rgba(255,255,255,.5);
 	border-bottom:1px solid gray;
+	padding:0 20%;
 }
 
-#banner {
-	margin-top:20%;
-}
 
 #banner img {
 	width:100%;
