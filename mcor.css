@@ -63,12 +63,18 @@ ul li:hover ul {
 
 #content-container h2 {
 	font-size:28px;
-	text-align: center;
 	font-weight: normal;
+	text-align: center;
 }
 
 #content-container h3 {
-	font-size: 20px
+	font-size: 20px;
+	font-weight: normal;
+}
+
+#content h1 {
+	font-size: 28px;
+	font-weight: normal;
 }
 
 
