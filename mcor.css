@@ -66,6 +66,11 @@ ul li:hover ul {
 }
 
 
+#content-container {
+	margin: 0 20%;
+	padding:10px;
+}
+
 #content-container img {
 	width:100%;
 }
