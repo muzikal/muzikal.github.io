@@ -47,3 +47,8 @@ ul li ul li {
 	display: block;
 }
 
+ul li:hover ul {
+	background:white;
+	visibility: visible;
+	opacity: 1;
+}
