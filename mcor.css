@@ -79,20 +79,20 @@ ul li:hover ul {
 #left {
 	display: inline-block;
 	float: left;
-	width: 32%;
+	width: 31%;
 	margin:0 10px;
 }
 
 #mid {
 	display: inline-block;
 	float: left;
-	width:32%;
+	width:31%;
 	margin:0 10px;
 }
 
 #right {
 	display: inline-block;
 	float: right;
-	width: 32%;
+	width: 31%;
 	margin:0 10px;
 }
