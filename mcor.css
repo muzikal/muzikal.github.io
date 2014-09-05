@@ -37,5 +37,13 @@ ul li {
 
 ul li ul {
 	position:absolute;
+	left:0;
 	visibility: hidden;
+	opacity: 0;
+	background: white;
 }
+
+ul li ul li {
+	display: block;
+}
+
